@@ -1,6 +1,6 @@
-"Hey, can we install _cmatrix_?"
-
-"No, we have _cmatrix_ at home..."
+> Me: "Hey, can we install _cmatrix_?"
+>
+> Them: "No, we have _cmatrix_ at home..."
 
 **The cmatrix at home:** 
 
