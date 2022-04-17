@@ -1,7 +1,8 @@
-"Hey, can we install `cmatrix`?"
-"No, we have `cmatrix` at home..."
+"Hey, can we install _cmatrix_?"
 
-*The cmatrix at home:* 
+"No, we have _cmatrix_ at home..."
+
+**The cmatrix at home:** 
 
 ``` shell
 $ cat /dev/urandom
